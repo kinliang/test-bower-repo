@@ -1,0 +1,20 @@
+{
+  "name": "test-bower",
+  "version": "1.0.0",
+  "authors": [
+    "Seann <seann@appspace.com>"
+  ],
+  "dependencies": {
+    "sass-bootstrap": "~3.0.0",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
